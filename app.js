@@ -1,7 +1,7 @@
 var map
 var bays
-var updatedBays
-var loginTime
+// var updatedBays
+// var loginTime
 
 var creatInfoBox = map => {
     //Create an infobox at the center of the map but don't show it.
