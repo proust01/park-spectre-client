@@ -1,5 +1,6 @@
 var map
 var bays
+var updatedBays
 var loginTime
 
 var creatInfoBox = map => {
